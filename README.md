@@ -1,5 +1,4 @@
-# [Project name]
-Repository template for private projects
+# Readolini
 
 # Contributing
 
@@ -31,7 +30,6 @@ An optional `scope` can be added for further context, e.g `fix(server): misspell
 | ci       | Changes to CI configuration files and scripts.                           |
 | chore    | Other changes that don't modify src or test files.                       |
 | revert   | Reverts a previous commit.                                          	  |
-
 
 1. Create a branch.
 2. Develop feature/bugfix.
